@@ -19,6 +19,16 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "bat"
     },
+    "image2": {
+        "data": "hwQQABAAAAAAAICIiAgAAAAAiJmZiAAAAICYaZaJCAAAiJlpZpmIAICYmWaWmYkIiJmZZpmZmYiYaZmWZmaZiZhmlpaZZmaJmGZmmWlpZomYmWZmaZmWiYiZmZlmmZmIgJiZaWaZiQgAiJlmlpmIAACAmGmWiQgAAACImZmIAAAAAICIiAgAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "blue portal"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAACAiIgIAAAAAIkREIgAAACBCVEUkAgAAIkRUVUQiACBCRFVFRCQCIkREVURERCJCVERFVVVEJEJVRUVEVVUkQlVVRFRUVSRCRFVVVERFJCJERERVREQiIEJEVFVEJAIAIkRVRUQiAAAgQlRFJAIAAAAiREQiAAAAACAiIgIAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "orange portal"
+    },
     "anim2": {
         "namespace": "myAnimations",
         "id": "anim2",
